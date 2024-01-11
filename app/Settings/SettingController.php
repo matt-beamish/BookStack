@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 
 class SettingController extends Controller
 {
-    protected array $settingCategories = ['features', 'customization', 'registration'];
+    protected array $settingCategories = ['features', 'customization', 'registration','pwa'];
 
     /**
      * Handle requests to the settings index path.

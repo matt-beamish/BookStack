@@ -276,6 +276,15 @@ return [
     'webhooks_last_errored' => 'Last Errored:',
     'webhooks_last_error_message' => 'Last Error Message:',
 
+    // Progressive Web Application Settings
+    'pwa' => 'Progressive Web App',
+    'pwa_pagetitle' => 'Progressive Web App Settings', 
+    'pwa_desc' => 'Progressive Web App Settings are used to generate a manifest file which allows this BookStack instance to be installed as a native-feeling application on mobile devices.',
+    'pwa_app_name' => 'Name',
+    'pwa_app_name_override' => 'Override the App Name?',
+    'pwa_app_name_desc' => 'The name of the web application as it is usually displayed to the user',
+    'pwa_app_icon' => 'Icon',
+    'pwa_app_icon_desc' => 'An image file that can serve as application icons for different contexts',
 
     //! If editing translations files directly please ignore this in all
     //! languages apart from en. Content will be auto-copied from en.
